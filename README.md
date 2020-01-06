@@ -1,4 +1,4 @@
-# PureMURA
+# Pure-MURA
 A pre-operative sub-set of MURA dataset(https://stanfordmlgroup.github.io/competitions/mura/).
 
 The dataset is avaliable at https://drive.google.com/open?id=140YHuHvjGxUJfvu2vsaKY4H4MR6tJDd
