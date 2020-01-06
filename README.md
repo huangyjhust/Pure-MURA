@@ -7,13 +7,13 @@ I noticed that, ~50% of the positive samples are with fracture indicators(steel 
 
 Therefore, I mannually divided MURA dataset into two subsets, the subset with fracture indicators or pre-operative subset without indicators. By training models with the pre-operative subset, classification should be based on visual clues of fractures, not the indicators. Some post-operative samples may remain in the pre-operative dataset due to mistakes of mannual labour, but they are minority after all.
 
-Below are a few samples from PureMURA/train_AllPlate/
+Below are a few fracture samples from PureMURA/train_AllPlate/
 
 ![Fig.1.](https://github.com/huangyjhust/PureMURA/blob/master/samples/1_Plaster.png)
 ![Fig.3.](https://github.com/huangyjhust/PureMURA/blob/master/samples/2_Plate.png)
 ![Fig.4.](https://github.com/huangyjhust/PureMURA/blob/master/samples/3_Mark.png)
 
-Below are a few samples from PureMURA/train_NoPlate/
+Below are a few fracture samples from PureMURA/train_NoPlate/
 
 ![Fig.0.](https://github.com/huangyjhust/PureMURA/blob/master/samples/1_NoPlate.png)
 ![Fig.2.](https://github.com/huangyjhust/PureMURA/blob/master/samples/2_NoPlate.png)
