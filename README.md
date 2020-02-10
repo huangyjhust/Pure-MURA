@@ -1,7 +1,7 @@
 # Pure-MURA
 A pre-operative sub-set of MURA dataset(https://stanfordmlgroup.github.io/competitions/mura/).
 
-The dataset is avaliable at https://drive.google.com/open?id=140YHuHvjGxUJfvu2vsaKY4H4MR6tJDd
+The dataset is avaliable at https://drive.google.com/file/d/140YHuHvjGxUJfvu2vsaKY4H4MR6tJDd_/view?usp=sharing
 
 I noticed that, ~50% of the positive samples are with fracture indicators(steel plates, manual marks or in plaster). These indicators ruin CNN's understanding of fractures, thus CNNs easily identify fractures from seeing these indicators. However, a clinically valuable fracture recognition system should be capable of recognizing fractures from pre-operative samples rather than post-operative samples. 
 
